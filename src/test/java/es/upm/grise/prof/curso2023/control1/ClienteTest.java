@@ -12,11 +12,10 @@ public class ClienteTest {
 
     Cliente cliente_test;
 
-    private static final String ITEM_NAME = "Sample Item";
+    private static final String ITEM_NAME = "Ejemplo";
     private static final int UNITS = 5;
     private static final double PRICE = 10.0;
-    private static final double DELTA = 0.0001; // Delta for double comparison
-
+    
     @BeforeEach
     void makeCliente(){
         cliente_test = new Cliente();
