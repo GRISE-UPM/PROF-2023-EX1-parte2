@@ -7,7 +7,7 @@ public class Cliente {
 	
 	private List<Pedido> pedidos;
 	
-	Cliente() {
+	public Cliente() { // arreglado: hecho público el método
 		pedidos = new ArrayList<Pedido>();
 	}
 	
