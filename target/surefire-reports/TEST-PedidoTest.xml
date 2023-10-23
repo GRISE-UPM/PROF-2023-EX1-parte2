@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="PedidoTest" time="0.001" tests="2" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="PedidoTest" time="0.002" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
     <property name="java.specification.version" value="11"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.class.path" value="C:\Users\solod\IdeaProjects\examen_1\target\test-classes;C:\Users\solod\IdeaProjects\examen_1\target\classes;C:\Users\solod\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.0\junit-jupiter-engine-5.10.0.jar;C:\Users\solod\.m2\repository\org\junit\platform\junit-platform-engine\1.10.0\junit-platform-engine-1.10.0.jar;C:\Users\solod\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\solod\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.0\junit-jupiter-api-5.10.0.jar;C:\Users\solod\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\solod\.m2\repository\org\junit\platform\junit-platform-commons\1.10.0\junit-platform-commons-1.10.0.jar;"/>
+    <property name="java.class.path" value="C:\Users\solod\IdeaProjects\examen_1\target\test-classes;C:\Users\solod\IdeaProjects\examen_1\target\classes;C:\Users\solod\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.0\junit-jupiter-engine-5.10.0.jar;C:\Users\solod\.m2\repository\org\junit\platform\junit-platform-engine\1.10.0\junit-platform-engine-1.10.0.jar;C:\Users\solod\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\solod\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.0\junit-jupiter-api-5.10.0.jar;C:\Users\solod\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\solod\.m2\repository\org\junit\platform\junit-platform-commons\1.10.0\junit-platform-commons-1.10.0.jar;C:\Users\solod\.m2\repository\org\junit\platform\junit-platform-suite\1.9.2\junit-platform-suite-1.9.2.jar;C:\Users\solod\.m2\repository\org\junit\platform\junit-platform-suite-api\1.9.2\junit-platform-suite-api-1.9.2.jar;C:\Users\solod\.m2\repository\org\junit\platform\junit-platform-suite-engine\1.9.2\junit-platform-suite-engine-1.9.2.jar;C:\Users\solod\.m2\repository\org\junit\platform\junit-platform-suite-commons\1.9.2\junit-platform-suite-commons-1.9.2.jar;C:\Users\solod\.m2\repository\org\junit\platform\junit-platform-launcher\1.9.2\junit-platform-launcher-1.9.2.jar;"/>
     <property name="java.vm.vendor" value="Microsoft"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -17,9 +17,9 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="ES"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Microsoft\jdk-11.0.12.7-hotspot\bin"/>
-    <property name="sun.java.command" value="C:\Users\solod\AppData\Local\Temp\surefire16338741331139408469\surefirebooter4388169410944621410.jar C:\Users\solod\AppData\Local\Temp\surefire16338741331139408469 2023-10-23T18-46-19_188-jvmRun1 surefire10055677535204032414tmp surefire_04118009159488835764tmp"/>
+    <property name="sun.java.command" value="C:\Users\solod\AppData\Local\Temp\surefire5316573430226649076\surefirebooter15326031376786873784.jar C:\Users\solod\AppData\Local\Temp\surefire5316573430226649076 2023-10-23T19-03-33_570-jvmRun1 surefire6991984005808945723tmp surefire_014291404843665087862tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="C:\Users\solod\IdeaProjects\examen_1\target\test-classes;C:\Users\solod\IdeaProjects\examen_1\target\classes;C:\Users\solod\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.0\junit-jupiter-engine-5.10.0.jar;C:\Users\solod\.m2\repository\org\junit\platform\junit-platform-engine\1.10.0\junit-platform-engine-1.10.0.jar;C:\Users\solod\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\solod\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.0\junit-jupiter-api-5.10.0.jar;C:\Users\solod\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\solod\.m2\repository\org\junit\platform\junit-platform-commons\1.10.0\junit-platform-commons-1.10.0.jar;"/>
+    <property name="surefire.test.class.path" value="C:\Users\solod\IdeaProjects\examen_1\target\test-classes;C:\Users\solod\IdeaProjects\examen_1\target\classes;C:\Users\solod\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.0\junit-jupiter-engine-5.10.0.jar;C:\Users\solod\.m2\repository\org\junit\platform\junit-platform-engine\1.10.0\junit-platform-engine-1.10.0.jar;C:\Users\solod\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\solod\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.0\junit-jupiter-api-5.10.0.jar;C:\Users\solod\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\solod\.m2\repository\org\junit\platform\junit-platform-commons\1.10.0\junit-platform-commons-1.10.0.jar;C:\Users\solod\.m2\repository\org\junit\platform\junit-platform-suite\1.9.2\junit-platform-suite-1.9.2.jar;C:\Users\solod\.m2\repository\org\junit\platform\junit-platform-suite-api\1.9.2\junit-platform-suite-api-1.9.2.jar;C:\Users\solod\.m2\repository\org\junit\platform\junit-platform-suite-engine\1.9.2\junit-platform-suite-engine-1.9.2.jar;C:\Users\solod\.m2\repository\org\junit\platform\junit-platform-suite-commons\1.9.2\junit-platform-suite-commons-1.9.2.jar;C:\Users\solod\.m2\repository\org\junit\platform\junit-platform-launcher\1.9.2\junit-platform-launcher-1.9.2.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\solod"/>
     <property name="user.language" value="es"/>
@@ -33,7 +33,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\solod\AppData\Local\Temp\surefire16338741331139408469\surefirebooter4388169410944621410.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\solod\AppData\Local\Temp\surefire5316573430226649076\surefirebooter15326031376786873784.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.12+7"/>
@@ -61,6 +61,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="testCalculoImportePedidos" classname="PedidoTest" time="0.001"/>
-  <testcase name="testExcepcionCuandoNoHayPedidos" classname="PedidoTest" time="0"/>
+  <testcase name="testCalculoImportePedido" classname="PedidoTest" time="0.002"/>
 </testsuite>
