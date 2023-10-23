@@ -5,6 +5,7 @@ import static org.junit.jupiter.api.Assertions.assertThrows;
 import org.junit.jupiter.api.Test;
 
 public class ClienteTest {
+    
     @Test
     public void noPedidosTest(){
         Cliente cliente = new Cliente();
